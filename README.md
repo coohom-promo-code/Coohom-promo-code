@@ -79,7 +79,7 @@ With Coohom, professional-quality rendering is no longer a bottleneck—whether 
 
 • To sign up for Coohom and create an account, you can follow these steps:
 
-• Go to the Coohom website by >>Clicking Here<< and tap on the Sign Up button.
+• Go to the Coohom website by >>[Clicking Here](https://rebrand.ly/coohom-discount-promo)<< and tap on the Sign Up button.
 
 • You will have three options to create a Coohom account: Continue with Google, Facebook, or Email. Choose the option that suits you best.
 
@@ -284,7 +284,7 @@ Features:
 
 Advanced K&B Design, Panorama
 Photo Studio Bundle
-Team management
+Team management 
 Enterprise catalog-paving
 
 ### Bumper Discount 🎉: Get 75% Off with “Cohoominspiration20”.
