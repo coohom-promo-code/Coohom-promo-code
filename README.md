@@ -17,6 +17,7 @@ Let's discuss it.
 The working Coohom promo code is **“Cohoominspiration20”**. This gives you a whooping 75% discount.
 
 ## How to apply Coohom promo code:
+<img width="2560" height="1278" alt="Image" src="https://github.com/user-attachments/assets/f3882ae8-0567-4758-b372-42e649871680" />
 
 • Go to Coohom's official website. Click here.
 
