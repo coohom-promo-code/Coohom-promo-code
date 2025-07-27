@@ -13,7 +13,7 @@ Let's discuss it.
 
 ## Coohoom promo code:
 
-The working Coohom promo code is “Cohoominspiration20”. This gives you a whooping 75% discount.
+The working Coohom promo code is **“Cohoominspiration20”**. This gives you a whooping 75% discount.
 
 ## How to apply Coohom promo code:
 
