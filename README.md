@@ -19,21 +19,21 @@ The working Coohom promo code is “Cohoominspiration20”. This gives you a who
 
 • Go to Coohom's official website. Click here.
 
-Signup with your Email.
+• Signup with your Email.
 
-Go to pricing.
+• Go to pricing.
 
-Choose your plan.
+• Choose your plan.
 
-Under billing information select “Use My Promo Code”.
+• Under billing information select “Use My Promo Code”.
 
-Enter “Cohoominspiration20”.
+• Enter **“Cohoominspiration20”**.
 
-Click apply.
+• Click apply.
 
-Congrats you have just saved 75% Off your order.
+• Congrats you have just saved 75% Off your order.
 
-Bumper Discount 🎉: Get 75% Off with “Cohoominspiration20”.
+### Bumper Discount 🎉: Get 75% Off with “Cohoominspiration20”.
 
 ## What Is Coohom?
 
@@ -77,15 +77,15 @@ With Coohom, professional-quality rendering is no longer a bottleneck—whether 
 
 ## How to sign up for Cohoom:
 
-To sign up for Coohom and create an account, you can follow these steps:
+• To sign up for Coohom and create an account, you can follow these steps:
 
-Go to the Coohom website by >>Clicking Here<< and tap on the Sign Up button.
+• Go to the Coohom website by >>Clicking Here<< and tap on the Sign Up button.
 
-You will have three options to create a Coohom account: Continue with Google, Facebook, or Email. Choose the option that suits you best.
+• You will have three options to create a Coohom account: Continue with Google, Facebook, or Email. Choose the option that suits you best.
 
-If you choose Continue with Email, you will need to enter your email address and a password that meets the following criteria:
+• If you choose Continue with Email, you will need to enter your email address and a password that meets the following criteria:
 
-After entering your email and password, click on Continue. You will receive a 4-digit code to verify your email. Enter the code and click on Verify to finish your account creation.
+• After entering your email and password, click on Continue. You will receive a 4-digit code to verify your email. Enter the code and click on Verify to finish your account creation.
 
 I hope this helps you to join Coohom and enjoy its amazing products and services
 
