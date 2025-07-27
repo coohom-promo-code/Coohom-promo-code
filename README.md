@@ -7,7 +7,7 @@ Though not on the pricey list, it offers a discount promo code to further help y
 
 Let's discuss it.
 
-Click here to sign up.
+<span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/coohom-discount-promo"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
 ### Bumper Discount 🎉: Get 75% Off with “Cohoominspiration20”.
 
@@ -181,6 +181,8 @@ With Coohom, every phase of design—from first sketch to final showcase—is sm
 
 ### Bumper Discount 🎉: Get 75% Off with “Cohoominspiration20”.
 
+<span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/coohom-discount-promo"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
+
 ## How to use Coohom:
 
 To use Coohom, you need to sign up for a free account on their website or download their mobile or desktop app. 
@@ -307,6 +309,6 @@ For advanced features such as parametric modeling, 3D modeling, and texture proc
 
 Coohom is a top class cloud-based 2D and 3D design software for home and interiors. If you're looking to up your design game, you can't go wrong with Coohom. Use code “Cohoominspiration20” to get 75% OFF.
 
-Click here to signup.
+<span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/coohom-discount-promo"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
 
