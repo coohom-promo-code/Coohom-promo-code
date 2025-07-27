@@ -97,7 +97,7 @@ Coohom offers many features they include:
 
 Coohom brings every tool you need for seamless 2D and 3D home and interior design into one intuitive platform. Mix and match modules to fit your workflow—whether you’re mapping out a floor plan, styling a kitchen, organizing a closet, or building an interactive showroom. Here’s what you can do:
 
-✏️ Floor Planner:
+### ✏️ Floor Planner:
 
 Free & Web-Based: Sketch walls, doors, windows and stairs in crisp 2D or immersive 3D.
 
@@ -105,7 +105,7 @@ Massive Asset Library: Choose from over 300,000 photorealistic furniture, fixtur
 
 Quick Renders: Export polished stills, animated walkthroughs or 360° panoramas in just a few clicks.
 
-🍽️ Kitchen & Bath Designer
+### 🍽️ Kitchen & Bath Designer
 
 Fully Customizable: Resize and style cabinets, islands, appliances and vanities—down to handles and finishes.
 
@@ -113,7 +113,7 @@ Real-Time Editing: Tweak dimensions, colors and materials with instant visual fe
 
 Ultra-High Resolution: Produce lifelike renders up to 12K for every nook and detail.
 
-👚 Closet Creator
+### 👚 Closet Creator
 
 Tailored Layouts: Design walk-in, reach-in or corner closets that maximize space and style.
 
@@ -121,7 +121,7 @@ Accessory Suite: Mix shelves, drawers, rods, doors and organizers to suit your n
 
 Photo-Real Preview: See your custom storage come to life in crisp, detailed renderings.
 
-💡 3D Lighting Studio
+### 💡 3D Lighting Studio
 
 Complete Light Library: Add chandeliers, wall sconces, lamps and pendants.
 
@@ -129,49 +129,49 @@ Precision Controls: Dial in brightness, color temperature, beam angles and shado
 
 High-Speed Renders: Visualize and export realistic lighting effects at up to 12K.
 
-📱 3D Viewer & AR
+### 📱 3D Viewer & AR
 
 Interactive Exploration: Orbit, zoom, pan and measure designs on any device.
 
 Augmented Reality: Place your virtual space into the real world with your smartphone camera.
 
-🎥 Photo & Video Studio
+### 🎥 Photo & Video Studio
 
 Stylish Templates: Apply filters, graphics, text overlays, logos and watermarks.
 
 Dynamic Presentations: Add music and motion to create share-ready MP4 walkthroughs.
 
-🤖 AI Visual Studio
+### 🤖 AI Visual Studio
 
 Smart Material Generation: Turn photos or sketches into hyper-real textures.
 
 Layout & Style Suggestions: Get AI-driven recommendations for optimal furniture placement and color schemes.
 
-🏬 Virtual Showroom
+### 🏬 Virtual Showroom
 
 Immersive Experiences: Craft branded, interactive 3D environments visitors can explore online.
 
 Easy Sharing: Publish your showroom via link or QR code—no downloads needed.
 
-💡 Inspiration Spaces
+### 💡 Inspiration Spaces
 
 Curated Designs: Browse a gallery of ready-made room layouts across every style.
 
 One-Click Customization: Swap colors, furniture and finishes to make each space uniquely yours.
 
-📂 Asset Management
+### 📂 Asset Management
 
 Centralized Library: Upload, tag, organize and share your own 3D models alongside Coohom’s collection.
 
 Anytime, Anywhere Access: Retrieve your assets on any device, whenever inspiration strikes.
 
-🛠️ 3D Modeling Service
+### 🛠️ 3D Modeling Service
 
 Custom Creations: Commission professional-quality models from sketches or photos.
 
 Flexible Detail Levels: Choose the resolution and complexity that suit your project and budget.
 
-🛒 E-Commerce & API Integration
+### 🛒 E-Commerce & API Integration
 
 Interactive Sales: Embed 3D configurators on your website to let customers view, customize and purchase in real time.
 
