@@ -309,7 +309,7 @@ For advanced features such as parametric modeling, 3D modeling, and texture proc
 
 ## Conclusion: Coohom Promo Code 
 
-Coohom is a top class cloud-based 2D and 3D design software for home and interiors. If you're looking to up your design game, you can't go wrong with Coohom. Use code “Cohoominspiration20” to get 75% OFF.
+Coohom is a top class cloud-based 2D and 3D design software for home and interiors. If you're looking to up your design game, you can't go wrong with Coohom. Use code **“Cohoominspiration20”** to get 75% OFF.
 
 <span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/coohom-discount-promo"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
