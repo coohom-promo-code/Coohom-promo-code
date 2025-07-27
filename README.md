@@ -17,7 +17,7 @@ The working Coohom promo code is “Cohoominspiration20”. This gives you a who
 
 ## How to apply Coohom promo code:
 
-Go to Coohom's official website. Click here.
+• Go to Coohom's official website. Click here.
 
 Signup with your Email.
 
